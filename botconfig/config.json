@@ -1,14 +1,14 @@
 {
-   "token": "Bot Token",
+   "token": "MTEzNjQ1MjEyNDAzMzY5NTc1NA.Gbl_t8.WbuDHD2QC9tEprp8QBMZcgYXOLyx0FzKwmJUIg",
    "prefix": "?",
    "ownerIDS": [
-      "442355791412854784"
+      "922567827326656543"
    ],
    "status": {
-      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/milrato",
-      "text2": "By: milrato.dev",
+      "text": "{prefix}help",
+      "text2": "Powered by vpsserver.com",
       "type": "PLAYING",
-      "url": "https://twitch.tv/#"
+      "url": "https://www.vpsserver.com/?affcode=c7b9c4626bf0"
    },
    "clientsettings": {
       "nodes": [
@@ -20,7 +20,7 @@
       ]
    },
    "spotify": {
-      "clientID": "",
-      "clientSecret": ""
+      "clientID": "f2c6da1a86424f59a0b87ce71ff2c41b",
+      "clientSecret": "957b99f3d6da43919afc0644e198d77b"
    }
 }
